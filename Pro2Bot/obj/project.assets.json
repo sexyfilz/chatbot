@@ -12419,11 +12419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filzx\\source\\repos\\Pro2Bot\\Pro2Bot\\Pro2Bot.csproj",
+      "projectUniqueName": "D:\\coding backup\\Pro2Bot\\Pro2Bot\\Pro2Bot.csproj",
       "projectName": "Pro2Bot",
-      "projectPath": "C:\\Users\\filzx\\source\\repos\\Pro2Bot\\Pro2Bot\\Pro2Bot.csproj",
+      "projectPath": "D:\\coding backup\\Pro2Bot\\Pro2Bot\\Pro2Bot.csproj",
       "packagesPath": "C:\\Users\\filzx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filzx\\source\\repos\\Pro2Bot\\Pro2Bot\\obj\\",
+      "outputPath": "D:\\coding backup\\Pro2Bot\\Pro2Bot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -22,9 +22,8 @@ namespace Pro2Bot.Bots
                 // Greet anyone that was not the target (recipient) of this message.
                 if (member.Id != turnContext.Activity.Recipient.Id)
                 {
-                    var reply = MessageFactory.Text($"Welcome to Guru Bot {member.Name}. " +
-                        "I will help u for searching the movies you want. " +
-                        "Type anything to get started.");
+                    var reply = MessageFactory.Text("Welcome to Guru Bot. " +
+                        "I will help you for searching the movies you want.");
                     await turnContext.SendActivityAsync(reply, cancellationToken);
                 }
             }
